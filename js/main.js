@@ -1,6 +1,6 @@
 new fullpage('#fullpage', {
     navigation: true,
-    responsiveWidth: 500,
+    // responsiveWidth: 500,
     scrollHorizontally: false,
     loopHorizontal: false,
     slidesNavigation: true,

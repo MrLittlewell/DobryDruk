@@ -353,4 +353,22 @@ body .btn:hover, .btn:active, .btn-large:hover, .btn-large:active {
     .slide-title h1 {
         font-size: 45px;
     }
+    .fp-slidesNav.fp-bottom {
+        bottom: -5px;
+    }
+    .slide .container .row {
+        margin-top: 160px;
+    }
+    .fp-controlArrow.fp-next {
+        border-width: 18.5px 0 18.5px 14px;
+    }
+    .fp-controlArrow.fp-prev {
+        border-width: 18.5px 14px 18.5px 0;
+    }
+    .fp-controlArrow {
+        top: 65%;
+    }
+    .modal {
+        height: 100%;
+    }
 }
