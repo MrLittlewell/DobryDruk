@@ -1,12 +1,12 @@
 new fullpage('#fullpage', {
     navigation: true,
-    responsiveWidth: 700,
+    responsiveWidth: 500,
     scrollHorizontally: false,
     loopHorizontal: false,
     slidesNavigation: true,
     slidesNavPosition: 'bottom',
     fadingEffect: true,
-    anchors: ['1st', '2nd', '3th', '4th'],
+    anchors: ['1st', '2nd', '3th', '4th', '5th'],
     // parallax: true,
     onLeave: function(origin, destination, direction) {
         console.log("Leaving section" + origin.index);
